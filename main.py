@@ -47,15 +47,15 @@ class MyClient(discord.Client):
                         except:
                             print("couldn't delete a message")
             except:
-                print("Can't read history!\n")
+                print("can't read history!\n")
 
 def start():
     print(f'''
-{Fore.WHITE} cerberus purger by yy
+{Fore.WHITE} cerberus purger by 2jbn
 
  send the command [{Fore.CYAN}{purgemessage}{Fore.BLUE}] to delete junk (all messages in the selected will be deleted)
 ''')
-os.system(f'title cerberus purger - yy')
+os.system(f'title cerberus purger - 2jbn')
 clear()
 start()
 
