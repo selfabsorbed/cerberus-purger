@@ -2,11 +2,13 @@
 im not responsible if you get banned by discord after using this tool, use at your own risk
 https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots
 ----
+``
                _                         
   ___ ___ _ __| |__   ___ _ __ _   _ ___ 
  / __/ _ \ '__| '_ \ / _ \ '__| | | / __|
 | (_|  __/ |  | |_) |  __/ |  | |_| \__ \
  \___\___|_|  |_.__/ \___|_|   \__,_|___/
+ ``
  
  a discord tool for purging messages in your servers/dms/gcs
  
