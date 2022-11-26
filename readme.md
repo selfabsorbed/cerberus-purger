@@ -28,4 +28,4 @@ https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accoun
  
  ----
  
-if you want to support me, theres no way to support me right now, however you could just star the repo, that would be great
+if you want to support me, theres no way to support me right now, however you could just star the repo, that would mean alot to me
