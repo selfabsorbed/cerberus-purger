@@ -1,0 +1,11 @@
+discord
+subprocess
+sys
+time
+os
+colorama
+ctypes
+json
+requests
+random
+pytz
